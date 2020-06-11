@@ -3,6 +3,8 @@ this is for git hooks  of mahalogin
 
 web hooks call jenkins
 
+New hook for test2
+
 
 
 
